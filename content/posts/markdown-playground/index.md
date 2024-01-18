@@ -260,9 +260,9 @@ you can write text [with links](http://example.com) inline or [link references][
 - Green
 - Blue
 
-- Red
-- Green
-- Blue
+* Red
+* Green
+* Blue
 
 - Red
 - Green
